@@ -1,0 +1,889 @@
+[
+  {
+    "Data": [
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -88,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -92,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:19:e3:fa:36:57",
+            "Number": -95,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:00.245Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -0.69298637,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -0.076814756,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": 3.6426208,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:00.245Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -0.8503963,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -0.09799448,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": 3.3579445,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:00.245Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -0.56927615,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -0.06029424,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": 3.8202543,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:00.245Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -87,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -89,
+            "Unit": "dB"
+          },
+          {
+            "Name": "c8:d7:19:35:fd:3d",
+            "Number": -96,
+            "Unit": "dB"
+          },
+          {
+            "Name": "28:16:2e:9d:a8:89",
+            "Number": -97,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:26:f2:fc:36:c4",
+            "Number": -102,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:04.264Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -20.33959,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -2.6934853,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -20.060379,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:04.264Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -20.298431,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -2.689682,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -19.915455,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:04.264Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -14.310256,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -1.8836985,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -13.385988,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:04.264Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -87,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -93,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:26:f2:fc:36:c4",
+            "Number": -98,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:08.282Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -18.322472,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -2.362731,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -17.774212,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:08.282Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -26.061657,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -3.3429163,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -27.201626,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:08.282Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -19.733002,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -2.56106,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -18.286823,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:08.282Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -85,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -93,
+            "Unit": "dB"
+          },
+          {
+            "Name": "28:16:2e:9d:a8:89",
+            "Number": -98,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:19:e3:fa:36:57",
+            "Number": -99,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:12.308Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -3.21446,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -0.39087042,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -0.68348044,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:12.308Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -3.6193974,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -0.442027,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -1.2220459,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:12.308Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -3.10454,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -0.37707573,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -0.6109178,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:12.308Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -85,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -91,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:19:e3:fa:36:57",
+            "Number": -92,
+            "Unit": "dB"
+          },
+          {
+            "Name": "28:16:2e:9d:a8:89",
+            "Number": -96,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:16.337Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -13.725775,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -1.8591805,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -12.895111,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:16.337Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -8.996891,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -1.2274175,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -7.4311028,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:16.337Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -14.269339,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -1.9351006,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -13.599314,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:16.337Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -86,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:26:f2:fc:36:c4",
+            "Number": -97,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:20.377Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -25.266678,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -3.3694706,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -26.59662,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:20.377Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -23.415482,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -3.10745,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -24.58616,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:20.377Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -23.670193,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -3.158399,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -24.947964,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:20.377Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -88,
+            "Unit": "dB"
+          },
+          {
+            "Name": "60:c3:97:10:d4:f1",
+            "Number": -90,
+            "Unit": "dB"
+          },
+          {
+            "Name": "00:26:f2:fc:36:c4",
+            "Number": -97,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:24.458Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -11.176466,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -1.4715997,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -10.282266,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:24.458Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -12.1405325,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -1.5985707,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -11.30016,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:24.458Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -11.433677,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -1.524965,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -10.486116,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:24.458Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "c0:83:0a:60:07:31",
+            "Number": -87,
+            "Unit": "dB"
+          }
+        ],
+        "Source": "wifi",
+        "MTime": "2013-07-29T04:00:28.446Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "gyro_x",
+            "Number": -7.87008,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_y",
+            "Number": -1.0632399,
+            "Unit": "rad_per_s"
+          },
+          {
+            "Name": "gyro_z",
+            "Number": -5.297643,
+            "Unit": "rad_per_s"
+          }
+        ],
+        "Source": "gyro",
+        "MTime": "2013-07-29T04:00:28.446Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "mfield_x",
+            "Number": -16.235401,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_y",
+            "Number": -2.1549108,
+            "Unit": "microtesla"
+          },
+          {
+            "Name": "mfield_z",
+            "Number": -15.877327,
+            "Unit": "microtesla"
+          }
+        ],
+        "Source": "mfield",
+        "MTime": "2013-07-29T04:00:28.446Z"
+      },
+      {
+        "Properties": [
+          {
+            "Value": "OFFSITE",
+            "Name": "room"
+          }
+        ],
+        "Quantities": [
+          {
+            "Name": "acc_x",
+            "Number": -7.849048,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_y",
+            "Number": -1.0603033,
+            "Unit": "m_per_s_sq"
+          },
+          {
+            "Name": "acc_z",
+            "Number": -5.2828717,
+            "Unit": "m_per_s_sq"
+          }
+        ],
+        "Source": "accel",
+        "MTime": "2013-07-29T04:00:28.446Z"
+      }
+    ],
+    "Properties": [
+      {
+        "Value": "",
+        "Name": "Site"
+      },
+      {
+        "Value": "100.0",
+        "Name": "BatteryLevel"
+      }
+    ],
+    "App": "Pearson PsyPhy Client v0.67",
+    "Build": "samsung/goldenxx/golden:4.1.2/JZO54K/I8190XXAMA3:user/release-keys",
+    "User": 24001,
+    "MTime": "2013-07-29T04:00:00.245Z"
+  }
+]
